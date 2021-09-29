@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## POC
 
 You can use the [editor on GitHub](https://github.com/glenn169/dev.priceline.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
